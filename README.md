@@ -16,7 +16,7 @@ These tutorials were largely developed by volunteer instructors. Each tutorial w
 ### 01. Introductory Session (slides)
 *Anthony Arendt and Charley Haley*
 
-    * [Slides](https://docs.google.com/presentation/d/1kNc6u4mz9qt5TI-DCosSL6jZ5M7q_k3godlBrOE891c/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1kNc6u4mz9qt5TI-DCosSL6jZ5M7q_k3godlBrOE891c/edit?usp=sharing)
 
 ### 02. ICESat-2 Mission: Satellite, Sensor, and Data
 *Axel Schweiger*
@@ -30,63 +30,62 @@ These tutorials were largely developed by volunteer instructors. Each tutorial w
 ### 03. Git and GitHub
 *Fernando Perez*
 
-[intro-git](https://github.com/ICESAT-2HackWeek/intro-git)
-
-[Slides](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
+* [intro-git repository](https://github.com/ICESAT-2HackWeek/intro-git)
+* [Slides](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
 
 ### 04. Jupyter and iPython
 *Fernando Perez*
 
-    * [intro-jupyter](https://github.com/ICESAT-2HackWeek/intro-jupyter)
-    * [Slides](https://docs.google.com/presentation/d/1TfY7rnCuGQDrlvsf2-P9lNADT2vwiJsdb7vmgZ3SDmA/edit?usp=sharing)
+* [intro-jupyter repository](https://github.com/ICESAT-2HackWeek/intro-jupyter)
+* [Slides](https://docs.google.com/presentation/d/1TfY7rnCuGQDrlvsf2-P9lNADT2vwiJsdb7vmgZ3SDmA/edit?usp=sharing)
 
 
 ### 05. overview of python / numpy / pandas / matplotlib / geospatial data processing
 *David Shean*
 
-[geospatial-analysis](https://github.com/ICESAT-2HackWeek/geospatial-analysis)
+* [geospatial-analysis repository](https://github.com/ICESAT-2HackWeek/geospatial-analysis)
 
 ### 06. Introduction to ICESat-2 Sea Ice and Land Ice Products and Data Access
 
 * Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Alek Petty*)
 
-* [sea ice lesson](https://drive.google.com/file/d/1e3VFvBRBHcY5_gjEyWVjA-l7tL2K4HfQ/view?usp=sharing)
+    * [sea ice lesson slides](https://drive.google.com/file/d/1e3VFvBRBHcY5_gjEyWVjA-l7tL2K4HfQ/view?usp=sharing)
 
 * Land ice products: overview of products, algorithms, and parameters for land ice investigations (*Ben Smith*)
 
 * ICEsat-2 data access: basic data explore and visualization in OpenAltimetry (*Jessica Scheick and Amy Steiker*)
 
-* [data access lesson](https://nbviewer.jupyter.org/github/ICESAT-2HackWeek/data-access/blob/master/notebooks/01-Data_Resources_Intro.ipynb)
+    * [data access lesson repository](https://nbviewer.jupyter.org/github/ICESAT-2HackWeek/data-access/blob/master/notebooks/01-Data_Resources_Intro.ipynb)
 
 ### 07. Programmatic ICESat-2 data access
 *Jessica Scheick and Amy Steiker*
 
-[Programmatic ICESat-2 data access](https://github.com/ICESAT-2HackWeek/data-access)
+* [Programmatic ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
  
 ### 08. Introduction to HDF5 and ICESat-2 data files
 *Fernando Paolo*
 
-[Introduction to HDF5 and ICESat-2 data files](https://github.com/ICESAT-2HackWeek/intro-hdf5)
+* [Introduction to HDF5 and ICESat-2 data files repository](https://github.com/ICESAT-2HackWeek/intro-hdf5)
 
 ### 09. Land ice applications
 *Ben Smith*
 
-[Land ice applications](https://github.com/ICESAT-2HackWeek/Land_Ice_Applications)
+* [Land ice applications repository](https://github.com/ICESAT-2HackWeek/Land_Ice_Applications)
 
 ### 10. Sea ice applications
 *Ellen Buckley*
  
- [Sea ice applications](https://github.com/ICESAT-2HackWeek/sea-ice-tutorials)
+* [Sea ice applications repository](https://github.com/ICESAT-2HackWeek/sea-ice-tutorials)
  
  ### 11. Science data generation
  *Johan Nilsson*
  
- [Science data generation](https://github.com/ICESAT-2HackWeek/ScienceDataGeneration)
+* [Science data generation repository](https://github.com/ICESAT-2HackWeek/ScienceDataGeneration)
 
 ### 12. Machine learning
 *Yara Mohajerani and Shane Grigsby*
  
-[Machine learning](https://github.com/ICESAT-2HackWeek/Machine-Learning)
+* [Machine learning repository](https://github.com/ICESAT-2HackWeek/Machine-Learning)
 
 
 ## Citation and License
