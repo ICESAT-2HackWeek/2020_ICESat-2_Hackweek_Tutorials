@@ -55,12 +55,12 @@ These tutorials were largely developed by volunteer instructors. Each tutorial w
 
 * ICEsat-2 data access: basic data explore and visualization in OpenAltimetry (*Jessica Scheick and Amy Steiker*)
 
-    * [data access lesson repository](https://nbviewer.jupyter.org/github/ICESAT-2HackWeek/data-access/blob/master/notebooks/01-Data_Resources_Intro.ipynb)
+    * [ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
 
 ### 07. Programmatic ICESat-2 data access
 *Jessica Scheick and Amy Steiker*
 
-* [Programmatic ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
+* [ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
  
 ### 08. Introduction to HDF5 and ICESat-2 data files
 *Fernando Paolo*
