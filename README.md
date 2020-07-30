@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3966463.svg)](https://doi.org/10.5281/zenodo.3966463)
+
 # 2020 ICESat-2 Hackweek Tutorials
 Combined repository for the final tutorial material presented at the 2020 ICESat-2 Cryosphere-themed Hackweek presented virtually by the University of Washington from 8-18 June 2020.
 
@@ -89,6 +91,18 @@ These tutorials were largely developed by volunteer instructors. Each tutorial w
 
 
 ## Citation and License
+Tutorial content is made up of original material modified specifically for the Hackweek by a dedicated team of volunteer instructors. We release these materials with a digital object identifier (DOI) to provide an easy way for both contributors and users to cite their work, given it is not necessarily appropriate for a peer-reviewed journal article publication. If you find these tutorials useful or adapt some of the underlying source code for your research (whether or not you attended the Hackweek), we request that you cite it as:
+
+Anthony Arendt, Jessica Scheick, David Shean, Ellen Buckley, Shane Grigsby, Charley Haley, Lindsey Heagy, Yara Mohajerani, Tom Neumann, Johan Nilsson, Thorsten Markus, Fernando Paolo, Fernando Perez, Alek Petty, Axel Schweiger, Ben Smith, Amy Steiker, Sebastian Alvis, Scott Henderson, Nick Holschuh, Zheng Liu, Tyler Sutterley. (2020). ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3966463.
+
+With such a large number of contributors completing a diverse array of tasks and at varying career stages (and therefore with a varying level of need for publications), author order was challenging to establish. Here, author order was determined by:
+1. involvement in planning the Hackweek and in preparing this summary repository for release on Zenodo
+2. alphabetical order by last name for tutorial leads and presenters
+3. alphabetical order by last name for other planning team members who did not present
+
+Special thanks to Yu-Chan and Jane for all of their technical expertise and help in planning and executing the event!
+
+Please click on the Zenodo badge [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3966463.svg)](https://doi.org/10.5281/zenodo.3966463) for the latest citation information and export options.
 
 
 The content of this project is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
