@@ -12,14 +12,10 @@ Participants learned about the ICESat-2 satellite, sensors, and datasets as well
 These tutorials were largely developed by volunteer instructors. Each tutorial was prepared and distributed via a topical repository under the [ICESat-2 Hackweek Github organization](https://github.com/ICESAT-2HackWeek). Participants were welcomed to either follow along on the video presentation or clone the repository and run it locally on the provided Pangeo JupyterHub environment created explicitly for the event. This 2020_ICESat-2_Hackweek_Tutorials repository contains the final collection of tutorials presented at the virtual event. It centralizes the final content from the individual tutorial repositories and provides a tagged "release" of the material presented during the hackweek with a DOI for distribution to the larger community. Some of these tutorials are may continue to evolve within their respective repositories (links are below).
 
 
-## Re-create the ICEsat-2 Hackweek JupyterLab environment with Pangeo Binder
-Clicking this button will launch a [Pangeo Binder](https://aws-uswest2-binder.pangeo.io) replica of the [JupyterLab computing environment](https://github.com/ICESAT-2HackWeek/jupyterhub-2020) used for the ICESat-2 Hackweek on the AWS us-west-2 hub. This will provide the same functionality we had during the Hackweek, so that you may run the tutorials, but the session is ephemenral. **Your home directory will not persist, so use this binder only for running tutorials or other short-lived demos!**
+## Re-create the ICEsat-2 Hackweek JupyterLab environment with binder
+Clicking this button will launch a [binder](https://mybinder.org/) replica of the [JupyterLab computing environment](https://github.com/ICESAT-2HackWeek/jupyterhub-2020) like the Pangeo environment used for the ICESat-2 Hackweek on the AWS us-west-2 hub. This will allow you to run the tutorials presented during the Hackweek, though the session is ephemeral. **Your home directory will not persist, so use this binder only for running tutorials or other short-lived demos!**
 
-[![badge](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder)
-
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://staging.aws-uswest2-binder.pangeo.io/v2/gh/ICESAT-2HackWeek/jupyter-image-2020/master?urlpath=git-pull?repo=https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder)
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder?urlpath=https%3A%2F%2Fgithub.com%2FICESAT-2HackWeek%2F2020_ICESat-2_Hackweek_Tutorials%2Ftree%2Fbinder)
 
 ## Tutorials
 ### 01. Introductory Session (slides)
