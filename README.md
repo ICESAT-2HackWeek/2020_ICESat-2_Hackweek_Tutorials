@@ -5,14 +5,21 @@ Combined repository for the final tutorial material presented at the 2020 ICESat
 
 
 ## Background
-The [ICESat-2 Cryospheric Science Hackweek]() was the first virtual Hackweek held by the University of Washington. Originally meant to be a five-day, in-person workshop, organizers quickly regrouped to make the event virtual in light of stay-at-home orders and travel restrictions in place to curb the spread of COVID-19. To accomodate multiple time zones and limit the daily duration of online tutorial sessions, the event was spread out over the course of ten days. The first week had three half-days of interactive tutorials/lectures. The second week had four days that included some interactive tutorials/lectures and scheduled times where instructors were available to help participants with a facilitated exploration of datasets and hands-on software development.
+The [ICESat-2 Cryospheric Science Hackweek](https://icesat-2hackweek.github.io/learning-resources/) was the first virtual Hackweek held by the University of Washington. Originally meant to be a five-day, in-person workshop, organizers quickly regrouped to make the event virtual in light of stay-at-home orders and travel restrictions in place to curb the spread of COVID-19. To accomodate multiple time zones and limit the daily duration of online tutorial sessions, the event was spread out over the course of ten days. The first week had three half-days of interactive tutorials/lectures. The second week had four days that included some interactive tutorials/lectures and scheduled times where instructors were available to help participants with a facilitated exploration of datasets and hands-on software development.
 
 Participants learned about the ICESat-2 satellite, sensors, and datasets as well as technologies and tools for accessing and processing ICESat-2 data with a focus on the cryosphere. They also participated in hacking projects.
 
 These tutorials were largely developed by volunteer instructors. Each tutorial was prepared and distributed via a topical repository under the [ICESat-2 Hackweek Github organization](https://github.com/ICESAT-2HackWeek). Participants were welcomed to either follow along on the video presentation or clone the repository and run it locally on the provided Pangeo JupyterHub environment created explicitly for the event. This 2020_ICESat-2_Hackweek_Tutorials repository contains the final collection of tutorials presented at the virtual event. It centralizes the final content from the individual tutorial repositories and provides a tagged "release" of the material presented during the hackweek with a DOI for distribution to the larger community. Some of these tutorials are may continue to evolve within their respective repositories (links are below).
 
 
-## Re-create the icesat2 hackweek JupyterLab environment with Pangeo Binder
+## Re-create the ICEsat-2 Hackweek JupyterLab environment with Pangeo Binder
+Clicking this button will launch a [Pangeo Binder](https://aws-uswest2-binder.pangeo.io) replica of the [JupyterLab computing environment](https://github.com/ICESAT-2HackWeek/jupyterhub-2020) used for the ICESat-2 Hackweek on the AWS us-west-2 hub. This will provide the same functionality we had during the Hackweek, so that you may run the tutorials, but the session is ephemenral. **Your home directory will not persist, so use this binder only for running tutorials or other short-lived demos!**
+
+[![badge](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder)
+
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://staging.aws-uswest2-binder.pangeo.io/v2/gh/ICESAT-2HackWeek/jupyter-image-2020/master?urlpath=git-pull?repo=https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder)
+
+
 
 ## Tutorials
 ### 01. Introductory Session (slides)
