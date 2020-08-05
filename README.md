@@ -15,7 +15,8 @@ These tutorials were largely developed by volunteer instructors. Each tutorial w
 ## Re-create the ICEsat-2 Hackweek JupyterLab environment with binder
 Clicking this button will launch a [binder](https://mybinder.org/) replica of the [JupyterLab computing environment](https://github.com/ICESAT-2HackWeek/jupyterhub-2020) like the Pangeo environment used for the ICESat-2 Hackweek on the AWS us-west-2 hub. This will allow you to run the tutorials presented during the Hackweek, though the session is ephemeral. **Your home directory will not persist, so use this binder only for running tutorials or other short-lived demos!**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder?urlpath=https%3A%2F%2Fgithub.com%2FICESAT-2HackWeek%2F2020_ICESat-2_Hackweek_Tutorials%2Ftree%2Fbinder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FICESAT-2HackWeek%2F2020_ICESat-2_Hackweek_Tutorials%2Ftree%2Fbinder?urlpath=lab%3Fautodecode)
+
 
 ## Tutorials
 ### 01. Introductory Session (slides)
