@@ -12,7 +12,12 @@ Participants learned about the ICESat-2 satellite, sensors, and datasets as well
 These tutorials were largely developed by volunteer instructors. Each tutorial was prepared and distributed via a topical repository under the [ICESat-2 Hackweek Github organization](https://github.com/ICESAT-2HackWeek). Participants were welcomed to either follow along on the video presentation or clone the repository and run it locally on the provided Pangeo JupyterHub environment created explicitly for the event. This 2020_ICESat-2_Hackweek_Tutorials repository contains the final collection of tutorials presented at the virtual event. It centralizes the final content from the individual tutorial repositories and provides a tagged "release" of the material presented during the hackweek with a DOI for distribution to the larger community. Some of these tutorials may continue to evolve within their respective repositories (links are below).
 
 
-## Re-create the ICEsat-2 Hackweek JupyterLab environment with binder
+## Running these tutorials
+During the Hackweek participants worked in a [Pangeo]() environment specifically created for the event and hosted on the AWS us-west-2 hub. This hub also included several large datasets that are too large to be included within this repository but that are easily and freely availabe from [NSIDC]() and easily obtained using the [icepyx library](). The notebooks in this repository fall into one of three categories, as denoted below:
+* 
+
+
+Re-create the ICEsat-2 Hackweek JupyterLab environment with binder
 Clicking this button will launch a [binder](https://mybinder.org/) replica of the [JupyterLab computing environment](https://github.com/ICESAT-2HackWeek/jupyterhub-2020) like the Pangeo environment used for the ICESat-2 Hackweek on the AWS us-west-2 hub. This will allow you to run the tutorials presented during the Hackweek, though the session is ephemeral. **Your home directory will not persist, so use this binder only for running tutorials or other short-lived demos!**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FICESAT-2HackWeek%252F2020_ICESat-2_Hackweek_Tutorials%26urlpath%3Dlab%252Ftree%252F2020_ICESat-2_Hackweek_Tutorials%252F%26branch%3Dbinder)
