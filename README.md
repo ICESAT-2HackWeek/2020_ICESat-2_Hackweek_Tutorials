@@ -26,7 +26,7 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 
 
 ## Tutorials
-\* Tutorial filenames within this repository denoted with an asterisk(\*) cannot be run in Binder due to large dataset requirements.
+\* Tutorial filenames within this repository denoted below with an asterisk(\*) cannot be run in Binder due to large dataset requirements.
 
 ### 01. Introductory Session (slides)
 *Anthony Arendt and Charley Haley*
