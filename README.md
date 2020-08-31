@@ -27,7 +27,7 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 
 ### 01. Introductory Session (slides)
 *Anthony Arendt and Charley Haley*
-* [Slides](https://docs.google.com/presentation/d/1kNc6u4mz9qt5TI-DCosSL6jZ5M7q_k3godlBrOE891c/edit?usp=sharing)
+* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/01.IntroductorySession_slides.pdf)
 
 ### 02. ICESat-2 Mission: Satellite, Sensor, and Data
 *Axel Schweiger*
