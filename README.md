@@ -41,15 +41,18 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 *Fernando Perez*
 * [intro-git repository](https://github.com/ICESAT-2HackWeek/intro-git)
 * [Slides](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
+* [Video](https://youtu.be/O2lLC_s_d20)
 
 ### 04. Jupyter and iPython
 *Fernando Perez*
 * [intro-jupyter repository](https://github.com/ICESAT-2HackWeek/intro-jupyter)
 * [Slides](https://docs.google.com/presentation/d/1TfY7rnCuGQDrlvsf2-P9lNADT2vwiJsdb7vmgZ3SDmA/edit?usp=sharing)
+* [Video](https://youtu.be/Jft9-RnmH1Y)
 
 ### 05. Geospatial Analysis with Python
 *David Shean*
 * [geospatial-analysis repository](https://github.com/ICESAT-2HackWeek/geospatial-analysis)
+* [Video](https://youtu.be/46vxJYqUMsM)
 
 ### 06. Introduction to ICESat-2 Sea Ice and Land Ice Products and Data Access
 * Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Alek Petty*)
@@ -57,30 +60,37 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 * Land ice products: overview of products, algorithms, and parameters for land ice investigations (*Ben Smith*)
 * ICEsat-2 data access: basic data explore and visualization in OpenAltimetry (*Jessica Scheick and Amy Steiker*)
     * [ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
+* [Video](https://youtu.be/UH9t3Fn7lN0)
 
 ### 07. Programmatic ICESat-2 data access
 *Jessica Scheick and Amy Steiker*
 * [ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
- 
+* [Video](https://youtu.be/RJNSDVnfGvU)
+
 ### 08. Introduction to HDF5 and ICESat-2 data files
 *Fernando Paolo*
 * [Introduction to HDF5 and ICESat-2 data files repository](https://github.com/ICESAT-2HackWeek/intro-hdf5)
+* [Video](https://youtu.be/-sEDiMEne3k)
 
 ### 09. Land ice applications\*
 *Ben Smith*
 * [Land ice applications repository](https://github.com/ICESAT-2HackWeek/Land_Ice_Applications)
+* [Video](https://youtu.be/qtkVd2xc-U8)
 
 ### 10. Sea ice applications\*
 *Ellen Buckley*
 * [Sea ice applications repository](https://github.com/ICESAT-2HackWeek/sea-ice-tutorials)
- 
+* [Video](https://youtu.be/zl-qifVcPV4)
+
  ### 11. Science data generation\*
  *Johan Nilsson*
  * [Science data generation repository](https://github.com/ICESAT-2HackWeek/ScienceDataGeneration)
-
+ * [Video](https://www.youtube.com/watch?v=PZlGcI3SMts)
+ 
 ### 12. Machine learning
 *Yara Mohajerani and Shane Grigsby*
 * [Machine learning repository](https://github.com/ICESAT-2HackWeek/Machine-Learning)
+* [Video](https://www.youtube.com/watch?v=GQ2RSOSOmdU)
 
 ## Citation
 This content is original material prepared and/or modified for the Hackweek by a dedicated team of volunteer instructors. We released these materials with a digital object identifier (DOI) to provide an easy way for both contributors and users to cite this material, as it is not necessarily appropriate for a peer-reviewed journal article publication. If you find these tutorials useful and/or adapt some of the underlying source code for your research (whether or not you attended the Hackweek), we request that you *Star* the repository (clicking the button in upper right corner) and cite as:
