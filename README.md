@@ -8,14 +8,14 @@ The [ICESat-2 Cryospheric Science Hackweek](https://icesat-2hackweek.github.io/l
 
 Participants learned about the ICESat-2 satellite, sensors, and datasets as well as technologies and tools for accessing and processing ICESat-2 data with a focus on the cryosphere. They also self-organized into teams for hacking projects involving ICESat-2 data.
 
-These tutorials were largely developed by volunteer instructors. Each tutorial was prepared and distributed via a topical repository under the [ICESat-2 Hackweek Github organization](https://github.com/ICESAT-2HackWeek). Participants followed the live or recorded video of each tutorial, and had the option to clone the repository and interactively run the examples on the Pangeo JupyterHub environment created explicitly for the event. 
+The tutorials presented were largely developed by volunteer instructors. Each tutorial was prepared and distributed via a topical repository under the [ICESat-2 Hackweek Github organization](https://github.com/ICESAT-2HackWeek). Participants followed the live or recorded video of each tutorial and had the option to clone the repository and interactively run the examples on the Pangeo JupyterHub environment created explicitly for the event. 
 
 This `2020_ICESat-2_Hackweek_Tutorials` repository contains the final collection of Jupyter notebooks and slides presented at the virtual event. It centralizes the final content from the individual tutorial repositories and provides a tagged "release" of the material presented during the hackweek with a DOI for distribution to the larger community. Most notebooks were rendered to include all output (including embedded plots). These notebooks can be identified by the "\_rendered" at the end of the filename. Some of these tutorials may continue to evolve within their respective repositories (links are below). 
 
 ## Running these tutorials
-During the Hackweek participants worked in a [Pangeo](https://pangeo.io/) environment specifically created for the event and hosted on AWS us-west-2. The JupyterHub included a shared volume with datasets used during some tutorials that are too large to be included within this repository. However, these data are publicly available from [NSIDC](https://nsidc.org/data/icesat-2) and can be easily obtained using the [icepyx library](https://icepyx.readthedocs.io/en/latest/). Where possible, code to download the needed data using `icepyx` has been included within each tutorial notebook.
+During the Hackweek participants worked in a [Pangeo](https://pangeo.io/) environment specifically created for the event and hosted on AWS us-west-2. The JupyterHub included a shared volume with datasets used during some tutorials that are too large to be included within this repository. However, these data are publicly available from [NSIDC](https://nsidc.org/data/icesat-2) and can be easily obtained using the [`icepyx` library](https://icepyx.readthedocs.io/en/latest/). Where possible, code to download the needed data using `icepyx` has been included within each tutorial notebook.
 
-**Please note that the tutorials presented here used version 0.2.0 of `icepyx`. These tutorials are set up to use that version in the provided Binder link, but they will require modification for more recent versions (>= v0.3.0) of `icepyx`. Up-to-date data access tutorials/examples are available from the `icepyx`  [repository](https://github.com/icesat2py/icepyx) and [associated documentation](https://icepyx.readthedocs.io/en/latest/getting_started/example_link.html).**
+**Please note that the tutorials presented here used version 0.2.0 of `icepyx`. These tutorials are set up to use that version in the provided binder link, but they will require modification for more recent versions (>= v0.3.0) of `icepyx`. Up-to-date data access tutorials/examples are available from the `icepyx`  [repository](https://github.com/icesat2py/icepyx) and [associated documentation](https://icepyx.readthedocs.io/en/latest/getting_started/example_link.html).**
 
 ### Re-create the ICEsat-2 Hackweek JupyterLab environment with Binder
 Clicking this button will launch a [binder](https://mybinder.org/) replica of the [JupyterLab computing environment](https://github.com/ICESAT-2HackWeek/jupyterhub-2020) described above. With the exception of those tutorials denoted with an asterisk(\*), this will allow you to run the tutorials presented during the Hackweek. Be aware the session is ephemeral. **Your home directory will not persist, so use this binder only for running tutorials or other short-lived demos!**
@@ -23,7 +23,7 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FICESAT-2HackWeek%252F2020_ICESat-2_Hackweek_Tutorials%26urlpath%3Dlab%252Ftree%252F2020_ICESat-2_Hackweek_Tutorials%252F%26branch%3Dbinder)
 
 ## Tutorials
-\* Tutorial filenames within this repository denoted below with an asterisk(\*) cannot be run in Binder due to large dataset requirements.
+\* Tutorial filenames within this repository denoted below with an asterisk(\*) cannot be run in binder due to large dataset requirements.
 
 ### 01. Introductory Session (slides)
 *Anthony Arendt and Charley Haley*
@@ -35,7 +35,7 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 * intro to the ICESat-2 mission (*Tom Neumann*)
     * [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/02.ICESat-2Mission_Neumann.pdf)
 * ICESat-2 data products (*Ben Smith*)
-    * [Slides](hhttps://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/02.ICESat-2Mission_Smith.pdf)
+    * [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/02.ICESat-2Mission_Smith.pdf)
 
 ### 03. Git and GitHub
 *Fernando Perez*
