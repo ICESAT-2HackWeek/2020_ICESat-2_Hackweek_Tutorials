@@ -27,60 +27,70 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 
 ### 01. Introductory Session (slides)
 *Anthony Arendt and Charley Haley*
-* [Slides](https://docs.google.com/presentation/d/1kNc6u4mz9qt5TI-DCosSL6jZ5M7q_k3godlBrOE891c/edit?usp=sharing)
+* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/01.IntroductorySession_slides.pdf)
 
 ### 02. ICESat-2 Mission: Satellite, Sensor, and Data
 *Axel Schweiger*
 * Welcome by the NASA Cryosphere Program Manager (*Thorsten Markus*)
 * intro to the ICESat-2 mission (*Tom Neumann*)
-    * [Slides](https://github.com/ICESAT-2HackWeek/intro_ICESat2/blob/master/HackWeekIntroNeumann2020.pptx)
+    * [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/02.ICESat-2Mission_Neumann.pdf)
 * ICESat-2 data products (*Ben Smith*)
-    * [Slides](https://github.com/ICESAT-2HackWeek/intro_ICESat2/blob/master/ICESat-2_data_products_Hackweek2020.pptx)
+    * [Slides](hhttps://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/02.ICESat-2Mission_Smith.pdf)
 
 ### 03. Git and GitHub
 *Fernando Perez*
 * [intro-git repository](https://github.com/ICESAT-2HackWeek/intro-git)
-* [Slides](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
+* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/03.Git_and_Github.pdf)
+* [Video](https://youtu.be/O2lLC_s_d20)
 
 ### 04. Jupyter and iPython
 *Fernando Perez*
 * [intro-jupyter repository](https://github.com/ICESAT-2HackWeek/intro-jupyter)
-* [Slides](https://docs.google.com/presentation/d/1TfY7rnCuGQDrlvsf2-P9lNADT2vwiJsdb7vmgZ3SDmA/edit?usp=sharing)
+* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/04.Jupyter_and_iPython.pdf)
+* [Video](https://youtu.be/Jft9-RnmH1Y)
 
 ### 05. Geospatial Analysis with Python
 *David Shean*
 * [geospatial-analysis repository](https://github.com/ICESAT-2HackWeek/geospatial-analysis)
+* [Video](https://youtu.be/46vxJYqUMsM)
 
 ### 06. Introduction to ICESat-2 Sea Ice and Land Ice Products and Data Access
 * Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Alek Petty*)
-    * [sea ice lesson slides](https://drive.google.com/file/d/1e3VFvBRBHcY5_gjEyWVjA-l7tL2K4HfQ/view?usp=sharing)
+    * [sea ice lesson slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/06.Intro_to_ICESat-2_Sea_Ice_Petty.pdf)
 * Land ice products: overview of products, algorithms, and parameters for land ice investigations (*Ben Smith*)
 * ICEsat-2 data access: basic data explore and visualization in OpenAltimetry (*Jessica Scheick and Amy Steiker*)
     * [ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
+* [Video](https://youtu.be/UH9t3Fn7lN0)
 
 ### 07. Programmatic ICESat-2 data access
 *Jessica Scheick and Amy Steiker*
 * [ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
- 
+* [Video](https://youtu.be/RJNSDVnfGvU)
+
 ### 08. Introduction to HDF5 and ICESat-2 data files
 *Fernando Paolo*
 * [Introduction to HDF5 and ICESat-2 data files repository](https://github.com/ICESAT-2HackWeek/intro-hdf5)
+* [Video](https://youtu.be/-sEDiMEne3k)
 
 ### 09. Land ice applications\*
 *Ben Smith*
 * [Land ice applications repository](https://github.com/ICESAT-2HackWeek/Land_Ice_Applications)
+* [Video](https://youtu.be/qtkVd2xc-U8)
 
 ### 10. Sea ice applications\*
 *Ellen Buckley*
 * [Sea ice applications repository](https://github.com/ICESAT-2HackWeek/sea-ice-tutorials)
- 
+* [Video](https://youtu.be/zl-qifVcPV4)
+
  ### 11. Science data generation\*
  *Johan Nilsson*
  * [Science data generation repository](https://github.com/ICESAT-2HackWeek/ScienceDataGeneration)
-
+ * [Video](https://www.youtube.com/watch?v=PZlGcI3SMts)
+ 
 ### 12. Machine learning
 *Yara Mohajerani and Shane Grigsby*
 * [Machine learning repository](https://github.com/ICESAT-2HackWeek/Machine-Learning)
+* [Video](https://www.youtube.com/watch?v=GQ2RSOSOmdU)
 
 ## Citation
 This content is original material prepared and/or modified for the Hackweek by a dedicated team of volunteer instructors. We released these materials with a digital object identifier (DOI) to provide an easy way for both contributors and users to cite this material, as it is not necessarily appropriate for a peer-reviewed journal article publication. If you find these tutorials useful and/or adapt some of the underlying source code for your research (whether or not you attended the Hackweek), we request that you *Star* the repository (clicking the button in upper right corner) and cite as:
