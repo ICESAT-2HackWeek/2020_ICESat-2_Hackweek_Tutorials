@@ -20,7 +20,7 @@ During the Hackweek participants worked in a [Pangeo](https://pangeo.io/) enviro
 ### Re-create the ICEsat-2 Hackweek JupyterLab environment with Binder
 Clicking this button will launch a [binder](https://mybinder.org/) replica of the [JupyterLab computing environment](https://github.com/ICESAT-2HackWeek/jupyterhub-2020) described above. With the exception of those tutorials denoted with an asterisk(\*), this will allow you to run the tutorials presented during the Hackweek. Be aware the session is ephemeral. **Your home directory will not persist, so use this binder only for running tutorials or other short-lived demos!**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FICESAT-2HackWeek%252F2020_ICESat-2_Hackweek_Tutorials%26urlpath%3Dlab%252Ftree%252F2020_ICESat-2_Hackweek_Tutorials%252F%26branch%3Dbinder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FICESAT-2HackWeek%252F2020_ICESat-2_Hackweek_Tutorials%26urlpath%3Dlab%252Ftree%252F2020_ICESat-2_Hackweek_Tutorials%252F%26branch%3Dmain)
 
 ## Tutorials
 \* Tutorial filenames within this repository denoted below with an asterisk(\*) cannot be run in binder due to large dataset requirements.
