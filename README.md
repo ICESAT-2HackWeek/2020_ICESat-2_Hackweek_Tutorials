@@ -27,26 +27,26 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 
 ### 01. Introductory Session (slides)
 *Anthony Arendt and Charley Haley*
-* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/01.IntroductorySession_slides.pdf)
+* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/01.IntroductorySession_slides.pdf)
 
 ### 02. ICESat-2 Mission: Satellite, Sensor, and Data
 *Axel Schweiger*
 * Welcome by the NASA Cryosphere Program Manager (*Thorsten Markus*)
 * intro to the ICESat-2 mission (*Tom Neumann*)
-    * [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/02.ICESat-2Mission_Neumann.pdf)
+    * [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/02.ICESat-2Mission_Neumann.pdf)
 * ICESat-2 data products (*Ben Smith*)
-    * [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/02.ICESat-2Mission_Smith.pdf)
+    * [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/02.ICESat-2Mission_Smith.pdf)
 
 ### 03. Git and GitHub
 *Fernando Perez*
 * [intro-git repository](https://github.com/ICESAT-2HackWeek/intro-git)
-* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/03.Git_and_Github.pdf)
+* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/03.Git_and_Github.pdf)
 * [Video](https://youtu.be/O2lLC_s_d20)
 
 ### 04. Jupyter and iPython
 *Fernando Perez*
 * [intro-jupyter repository](https://github.com/ICESAT-2HackWeek/intro-jupyter)
-* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/04.Jupyter_and_iPython.pdf)
+* [Slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/04.Jupyter_and_iPython.pdf)
 * [Video](https://youtu.be/Jft9-RnmH1Y)
 
 ### 05. Geospatial Analysis with Python
@@ -56,7 +56,7 @@ Clicking this button will launch a [binder](https://mybinder.org/) replica of th
 
 ### 06. Introduction to ICESat-2 Sea Ice and Land Ice Products and Data Access
 * Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Alek Petty*)
-    * [sea ice lesson slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/master/06.Intro_to_ICESat-2_Sea_Ice_Petty.pdf)
+    * [sea ice lesson slides](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/06.Intro_to_ICESat-2_Sea_Ice_Petty.pdf)
 * Land ice products: overview of products, algorithms, and parameters for land ice investigations (*Ben Smith*)
 * ICEsat-2 data access: basic data explore and visualization in OpenAltimetry (*Jessica Scheick and Amy Steiker*)
     * [ICESat-2 data access repository](https://github.com/ICESAT-2HackWeek/data-access)
